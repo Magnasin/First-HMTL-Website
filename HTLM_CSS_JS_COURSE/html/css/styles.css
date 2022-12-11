@@ -1,0 +1,16 @@
+body{
+    background-color: #EFF5F5;
+  }  
+  hr{
+    border-style: none;
+    border-top: dotted;
+    border-color: #FFE15D;
+    border-width: 5px;
+    width: 35%;
+  }
+  img:hover{
+    transform: scaleX(-1);
+  }
+  h2{
+    color: #FD841F;
+  }
